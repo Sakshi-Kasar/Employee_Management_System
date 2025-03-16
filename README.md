@@ -1,2 +1,10 @@
 # Employee_Management_System
-
+![Image](https://github.com/user-attachments/assets/fdce9816-09f2-4411-bfab-23d6ba1e76f8)
+![Image](https://github.com/user-attachments/assets/c356a7bc-e35f-46ec-8748-7cc14cc8153b)
+![Image](https://github.com/user-attachments/assets/5e514e5b-3e1f-4c4d-b182-8ae7c077c109)
+![Image](https://github.com/user-attachments/assets/ab18c6bd-03fd-458d-b9bc-866d74e3355c)
+![Image](https://github.com/user-attachments/assets/913fd13c-e13c-4b8f-b001-477a4e23c0ce)
+![Image](https://github.com/user-attachments/assets/5a6d7f2d-b39f-409e-8bcb-c8207d31371c)
+![Image](https://github.com/user-attachments/assets/a33c6f83-11df-4259-9aac-6abdf3881c09)
+![Image](https://github.com/user-attachments/assets/6b73d8f1-f95b-45a0-a3f6-1288c8646037)
+![Image](https://github.com/user-attachments/assets/855d87cb-823f-4749-83fa-5d789330cb87)
